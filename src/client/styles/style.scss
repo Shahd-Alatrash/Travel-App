@@ -1,0 +1,11 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    &:hover {
+        background-color: darkblue;
+    }
+}
